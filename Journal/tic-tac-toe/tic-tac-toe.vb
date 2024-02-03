@@ -87,7 +87,7 @@
         If btn1.Text = p1sign And btn5.Text = p1sign And btn9.Text = p1sign Then
             p1win()
         End If
-        If btn3.Text = p1sign And btn2.Text = p1sign And btn7.Text = p1sign Then
+        If btn3.Text = p1sign And btn5.Text = p1sign And btn7.Text = p1sign Then
             p1win()
         End If
         If btn1.Text = p2sign And btn2.Text = p2sign And btn3.Text = p2sign Then
